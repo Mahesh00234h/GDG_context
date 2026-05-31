@@ -11,6 +11,18 @@ AI Memory Vault is a comprehensive solution that bridges the memory gap across A
 
 ---
 
+## 📚 Table of Contents
+
+- [The Problem](#-the-problem)
+- [Key Features](#-key-features)
+- [Supported AI Platforms](#-supported-ai-platforms)
+- [Installation](#-installation)
+- [Usage Guide](#-usage-guide)
+- [Screenshots](#-screenshots)
+- [Project Structure](#-project-structure)
+- [Technology Stack](#-technology-stack)
+
+
 ## 🎯 The Problem
 
 AI tools don't share memory. Every time you:
@@ -403,18 +415,16 @@ ai-memory-vault/
 
 ## 🖼️ Screenshots
 
-- Screenshots added to repository root:
-   - `Screenshot 2026-05-31 213928.png`
-   - `Screenshot 2026-05-31 213946.png`
+- Screenshots are stored in `docs/images/`:
+   - `docs/images/ai-context-bridge-1.png`
+   - `docs/images/ai-context-bridge-2.png`
 
-> These files are currently in the project root. Example Markdown to render them from the repo root:
+Example Markdown to render them:
 
 ```md
-![AI Context Bridge popup 1](Screenshot%202026-05-31%20213928.png)
-![AI Context Bridge popup 2](Screenshot%202026-05-31%20213946.png)
+![AI Context Bridge popup 1](docs/images/ai-context-bridge-1.png)
+![AI Context Bridge popup 2](docs/images/ai-context-bridge-2.png)
 ```
-
-If you prefer the images under `docs/images/`, tell me and I'll move them into `docs/images/` (or I can rename them to a simpler name).
 
 ### Problem shown in the screenshot
 - Users lose conversational context when switching between AI platforms or tabs. The screenshot shows the extension popup listing captured memories from multiple sources (e.g., Claude, ChatGPT) and a locked V2 features indicator — illustrating the friction of keeping context synchronized and accessible across platforms.
@@ -769,5 +779,6 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 ---
 
 **Built with ❤️ by [Mahesh00234h](https://github.com/Mahesh00234h)**
-#   G D G _ c o n t e x t  
+#   G D G _ c o n t e x t 
+ 
  
